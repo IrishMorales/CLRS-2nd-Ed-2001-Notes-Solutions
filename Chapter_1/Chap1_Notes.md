@@ -1,21 +1,33 @@
-# Chapter 1 Notes
-For CLRS 2nd Ed. (2001)
+# Chapter 1. Notes - The Role of Algorithms in Computing
 
-### 1.1   Algorithms
-algorithm
+---
+
+### 1.1 Algorithms
+_algorithm_
 - computational procedure where input -> algorithm -> output
 
-instance
+_instance_
 - unique input sequence
+Ex. {1, 4, 2} is one instance, {4, 6, 8} is another 
 
-data structure
+_data structure_
 - way to store and organize data
 - differs across programming languages
+Ex. linked lists, stacks, queues
 
-NP-complete
+_NP-complete_
 - problems with no known best efficient solution
 - not yet proven that solution exists/cannot exist
 - if solution to one exists, solution to all exists
 
-travelling salesman problem
-- shortest-path problem but w/ multiple destinations and must return to origin
+_shortest path problem_
+- find shortest path available
+
+_travelling salesman problem_
+- shortest path problem but w/ multiple destinations and must return to origin
+
+---
+
+### 1.2 Algorithms as a technology
+
+- algorithm efficiency is based on memory usage & computing time
