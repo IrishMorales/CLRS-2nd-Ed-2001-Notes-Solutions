@@ -56,7 +56,8 @@ Therefore, 100 _n_^2 < 2^_n_ at n = 15
 
 ### Problems
 **1-1**  
-See "Problem 1-1.py" for computations
+Assuming 1 month = 31 days and 1 year = 365 days  
+_See "Problem 1-1.py" for computations_
 
 |         | 1 second            | 1 minute            | 1 hour              | 1 day               | 1 month             | 1 year              | 1 century           |  
 |---------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|  
