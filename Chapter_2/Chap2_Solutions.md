@@ -1,4 +1,7 @@
-# Chapter 2 Solutions
-For CLRS 2nd Ed. (2001)
+# Chapter 2. Solutions - Getting Started
 
-### 2.1-1
+---
+
+### 2.1 Algorithms
+**2.1-1**
+
